@@ -28,7 +28,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sick0M0de&show_icons=true&theme=radium&hide_border=true" alt="Ayush's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sick0M0de&theme=radium&hide_border=true" alt="Ayush's GitHub Streak" width="48%" />
-</p>
+
