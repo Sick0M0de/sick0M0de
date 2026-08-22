@@ -2,7 +2,7 @@
 <h3 align="center">A 7th-semester B.Tech CSE (IoT) student building scalable backends & cloud architectures.</h3>
 
 
-📄 **[View My Resume](./resume.pdf)**
+📄 **[View My Resume](./Ayush_Flow_Singh_FlowCV_Resume_2026_08_22.pdf)**
 
 ---
 <p align="center">
