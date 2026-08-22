@@ -1,6 +1,10 @@
 <h1 align="center">Hi there, I'm Ayush! 👋</h1>
 <h3 align="center">A 7th-semester B.Tech CSE (IoT) student building scalable backends & cloud architectures.</h3>
 
+
+📄 **[View My Resume](./resume.pdf)**
+
+---
 <p align="center">
   <a href="https://linkedin.com/in/ayush-singh-1048b023b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
